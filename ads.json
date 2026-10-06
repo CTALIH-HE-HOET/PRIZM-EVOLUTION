@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "kind": "partner",
+      "title": "GruVPN",
+      "text": "VPN, который просто работает. Подключение за минуту на любом устройстве. Более 20 локаций, до 10 устройств по одной подписке. Есть обход белых списков, а по моей ссылке месяц бесплатно. Это поможет пользоваться нужными сервисами и приложением PRIZM Evolution максимально даже в условиях блокировок.",
+      "video": "https://raw.githubusercontent.com/CTALIH-HE-HOET/PRIZM-EVOLUTION/main/gruvpn-banner-3.mp4",
+      "links": [
+        {
+          "label": "Для Telegram",
+          "url": "https://t.me/gruVPNbot?start=ref_1001828889"
+        },
+        {
+          "label": "Для сайта",
+          "url": "https://storage.googleapis.com/gru-vpn-redirect/index.html?p=/dXRtPXJlZl8xMDAxODI4ODg5"
+        }
+      ]
+    }
+  ]
+}
